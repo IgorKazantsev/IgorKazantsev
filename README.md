@@ -6,7 +6,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="justify">
   I am a student at Tallinn University of Technology (TalTech, Estonia), studying Smart Systems and Digital Solutions. My primary focus is Data Engineering and Data Science, and I am continuously developing my expertise in Python, SQL, and Data Analysis.</p>
 
- <p align="justify"> My passion lies in data-driven technologies—I enjoy extracting, processing, and analyzing data to uncover valuable insights. I have hands-on experience in data parsing, automation, and analytics, utilizing tools such as Pandas, BeautifulSoup, Selenium, and Power BI.
+ <p align="justify"> My passion lies in data-driven technologies — I enjoy extracting, processing, and analyzing data to uncover valuable insights. I have hands-on experience in data parsing, automation, and analytics, utilizing tools such as Pandas, BeautifulSoup, Selenium, and Power BI.
 </p>
 
 ## 📫 Contact Me
