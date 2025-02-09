@@ -72,4 +72,4 @@ I am passionate about Data Science and plan to start my career as a Data Enginee
 I am constantly seeking new challenges and learning opportunities that will help me stay up-to-date with emerging technologies and apply them to create innovative solutions.
 
 ### 🚀 Quick Stats
-![ian's github stats](https://github-readme-stats.vercel.app/api?username=IgorKazantsev&show_icons=true&hide=["issues"]&theme=dark)
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=IgorKazantsev&show_icons=true&hide=["issues"]&theme=dark)
