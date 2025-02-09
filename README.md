@@ -66,44 +66,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - Applied **SEO strategies**, increasing organic traffic by **30%**.  
 📍 **Live Site:** [www.loodupood.ee](https://www.loodupood.ee)  
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> 
+## 📚 Future Career Goals  
 
-## Technologies I Use
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
-
-## 🏆 Certifications
-
-- **[Front End Development Libraries Certificate](https://www.freecodecamp.org/certification/iannnblack/front-end-development-libraries)**  
-  *Issued by freeCodeCamp, November 2024*  
-  Credential ID: iannnblack-fedl
-
-- **[Machine Learning with Python
-15:04
-
-
-Certificate](https://www.freecodecamp.org/certification/iannnblack/machine-learning-with-python-v7)**  
-  *Issued by freeCodeCamp, October 2024*  
-  Credential ID: iannnblack-mlwp
-
-- **[Cloud Computing Certificate](https://skillshop.exceedlms.com/student/award/nFVS9y8AmAA1AbKNKdoEwqUQ)**  
-  *Issued by Google, November 2024*  
-  Credential ID: 346822601
-
-- **[Fundamentals of Digital Marketing](https://skillshop.exceedlms.com/student/award/3T9Tmp6ZZwJMtGTmgqySjEzB)**  
-  *Issued by Google, August 2024*  
-  Credential ID: 176398903
-
-More certificates at: [LinkedIn Certifications](https://www.linkedin.com/in/iannnblack/details/certifications/)
-
-## 📚 Future Learning Goals
-
-As part of my continuous growth, I'm currently focused on expanding my expertise in the following areas:
-
-- **Cloud Technologies**: Deepening my understanding of cloud architectures, containerization (Docker, Kubernetes), and serverless computing to develop scalable and resilient applications.
-- **Data Science**: Enhancing my knowledge of data analysis, data visualization, and working with big data tools (such as Hadoop and Spark) to extract insights and drive decisions.
-
+I am passionate about Data Science and plan to start my career as a Data Engineer after graduating. In the future, I aim to pursue a **Master’s degree in Artificial Intelligence** to deepen my expertise and work on advanced AI-driven solutions.  
 I am constantly seeking new challenges and learning opportunities that will help me stay up-to-date with emerging technologies and apply them to create innovative solutions.
 
 ### 🚀 Quick Stats
-![ian's github stats](https://github-readme-stats.vercel.app/api?username=iannblack&show_icons=true&hide=["issues"]&theme=dark)
+![ian's github stats](https://github-readme-stats.vercel.app/api?username=IgorKazantsev&show_icons=true&hide=["issues"]&theme=dark)
