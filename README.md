@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="justify"> I also have experience in digital marketing and website development on WordPress. My background in online business helps me understand data-driven decision-making, SEO, and automation.
 </p>
 
-## 📫 Contact Me
+## 📧 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-kazigor@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kazigor@yahoo.com)](mailto:kazigor@yahoo.com)
 [![Linkedin Badge](https://img.shields.io/badge/-igorkazantsev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-kazantsev/)](https://www.linkedin.com/in/igor-kazantsev/)
@@ -18,14 +18,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## 🛠 Skills  
 
 ### Programming Languages
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  
+Python, SQL
 
 ### Technologies I Use
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  
+Django, Git
 
-## 💼 Personal Projects
+## 🌝 Personal Projects
 
 <table>
   <tr>
