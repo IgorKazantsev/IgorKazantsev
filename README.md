@@ -36,24 +36,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - Built with **C# .NET**, supporting RESTful interactions.  
 📍 **GitHub Repo:** [CRUD API .NET](https://github.com/IgorKazantsev/CRUD-API)  
 
-### 🔹 **Lanza.ee – E-commerce Store for Professional Haircare**  
-- Developed an **online store** using **WordPress + WooCommerce**.  
-- Integrated **payment gateways**, optimized for **SEO and speed**.  
-- Set up **Google Analytics** and **e-commerce tracking** for data analysis.  
-📍 **Live Site:** [www.lanza.ee](https://www.lanza.ee)  
-
-### 🔹 **La Biosthetique Estonia – Premium Beauty Store**  
-- Created a **multi-category e-commerce store** on **WooCommerce**.  
-- Improved **user experience (UX)** and checkout flow.  
-- Analyzed traffic data using **Google Analytics** to optimize conversion rates.  
-📍 **Live Site:** [www.labiosthetique.ee](https://www.labiosthetique.ee)  
-
-### 🔹 **Loodupood.ee – Organic Products Store**  
-- Developed and maintained an **organic product marketplace**.  
-- Automated **order processing and stock updates**.  
-- Applied **SEO strategies**, increasing organic traffic by **30%**.  
-📍 **Live Site:** [www.loodupood.ee](https://www.loodupood.ee)  
-
 ### 🔹 **TravelBroker.ee – Travel Agency Website**  
 - Built a **responsive website** for a travel agency with Elementor.  
 - Integrated **contact forms** and SEO-optimized pages.  
@@ -71,6 +53,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - Integrated **custom categories** and improved search functionality.  
 - Optimized for **SEO and mobile responsiveness**.  
 📍 **Live Site:** [www.motormind.ee](https://motormind.ee/) 
+
+### 🔹 **La Biosthetique Estonia – Premium Beauty Store**  
+- Created a **multi-category e-commerce store** on **WooCommerce**.  
+- Improved **user experience (UX)** and checkout flow.  
+- Analyzed traffic data using **Google Analytics** to optimize conversion rates.  
+📍 **Live Site:** [www.labiosthetique.ee](https://www.labiosthetique.ee)  
+
+### 🔹 **Loodupood.ee – Organic Products Store**  
+- Developed and maintained an **organic product marketplace**.  
+- Automated **order processing and stock updates**.  
+- Applied **SEO strategies**, increasing organic traffic by **30%**.  
+📍 **Live Site:** [www.loodupood.ee](https://www.loodupood.ee)  
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> 
