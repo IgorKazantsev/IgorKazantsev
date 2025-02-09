@@ -26,22 +26,51 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 💼 Personal Projects
 
-<table>
-  <tr>
-    <td width="80">
-      <img src="https://cphorizon.com/CPHorizonLogo.png" width="70"/>
-    </td>
-    <td>
-      <h3>Club Penguin Horizon</h3>
-      <p><i>Owner, Decisions & Backend & Infrastructure | MMO Game | Jan. 2024 - Present</i></p>
-      <p align="justify">
-        I created a massively multiplayer online game called <strong>Club Penguin Horizon</strong>, in which I was in charge of managing and developing the necessary software. I was helped by friends, designers, community managers, event organizers, moderators, and a large community that reached 1,000 users connected at the same time.
-      </p>
-      <p><strong>Technologies utilized:</strong> JavaScript, MySQL, Nginx, Socket.IO, Phaser Editor, Physics Editor, Texture Packer</p>
-      <p><strong>Game Link:</strong> <a href="https://cphorizon.com">https://cphorizon.com</a></p>
-    </td>
-  </tr>
-</table>
+### 🔹 **Beautiful Soup Scraping**  
+- A Python project for web scraping using **BeautifulSoup**.  
+- Extracts and processes structured data for further analysis.  
+📍 **GitHub Repo:** [Beautiful Soup Scraping](https://github.com/IgorKazantsev/Beautiful-Soap-Scrapping)  
+
+### 🔹 **CRUD API in .NET**  
+- Developed a **CRUD API** for managing data operations.  
+- Built with **C# .NET**, supporting RESTful interactions.  
+📍 **GitHub Repo:** [CRUD API .NET](https://github.com/IgorKazantsev/CRUD-API)  
+
+### 🔹 **Lanza.ee – E-commerce Store for Professional Haircare**  
+- Developed an **online store** using **WordPress + WooCommerce**.  
+- Integrated **payment gateways**, optimized for **SEO and speed**.  
+- Set up **Google Analytics** and **e-commerce tracking** for data analysis.  
+📍 **Live Site:** [www.lanza.ee](https://www.lanza.ee)  
+
+### 🔹 **La Biosthetique Estonia – Premium Beauty Store**  
+- Created a **multi-category e-commerce store** on **WooCommerce**.  
+- Improved **user experience (UX)** and checkout flow.  
+- Analyzed traffic data using **Google Analytics** to optimize conversion rates.  
+📍 **Live Site:** [www.labiosthetique.ee](https://www.labiosthetique.ee)  
+
+### 🔹 **Loodupood.ee – Organic Products Store**  
+- Developed and maintained an **organic product marketplace**.  
+- Automated **order processing and stock updates**.  
+- Applied **SEO strategies**, increasing organic traffic by **30%**.  
+📍 **Live Site:** [www.loodupood.ee](https://www.loodupood.ee)  
+
+### 🔹 **TravelBroker.ee – Travel Agency Website**  
+- Built a **responsive website** for a travel agency with Elementor.  
+- Integrated **contact forms** and SEO-optimized pages.  
+- Improved **website performance** and user experience.  
+📍 **Live Site:** [www.travelbroker.ee](https://travelbroker.ee/et/reisiburoo/)  
+
+### 🔹 **Blu-ray.ee – Online Movie Store**  
+- Created an **e-commerce platform** for Blu-ray movie sales.  
+- Integrated **WooCommerce** and optimized the checkout process.  
+- Implemented **SEO strategies** to boost organic traffic.  
+📍 **Live Site:** [www.blu-ray.ee](https://blu-ray.ee/)  
+
+### 🔹 **Motormind.ee – Automotive Blog & Marketplace**  
+- Developed a **blog and online marketplace** for automotive content.  
+- Integrated **custom categories** and improved search functionality.  
+- Optimized for **SEO and mobile responsiveness**.  
+📍 **Live Site:** [www.motormind.ee](https://motormind.ee/) 
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> 
