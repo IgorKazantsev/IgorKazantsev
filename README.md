@@ -9,7 +9,7 @@ My passion lies in **data-driven technologies**—I enjoy extracting, processing
 ---
 
 ## 📫 Contact Me  
-[![Gmail Badge](https://img.shields.io/badge/-kazigor@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kazigor@yahoo.com)](mailto:kazigor@yahoo.com)  
+[![Gmail Badge](https://img.shields.io/badge/-igor.kazantsev@taltech.ee-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.kazantsev@taltech.ee)](mailto:igor.kazantsev@taltech.ee)  
 [![Linkedin Badge](https://img.shields.io/badge/-igorkazantsev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-kazantsev/)](https://www.linkedin.com/in/igor-kazantsev/)  
 
 ---
