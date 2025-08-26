@@ -33,7 +33,7 @@ My passion lies in **data-driven technologies**—I enjoy extracting, processing
 - A data engineering project for building ETL pipelines with public macroeconomic data.
 - Fetches datasets from the FRED API, applies transformations, and loads into PostgreSQL.
 - Implements deduplication, logging, and environment-based credential management.
-📍 GitHub Repo: [FRED ETL Pipelines](https://github.com/IgorKazantsev/Fred-etl-pipelines)
+№№📍 GitHub Repo: [FRED ETL Pipelines](https://github.com/IgorKazantsev/Fred-etl-pipelines)
 
 
 ---
