@@ -28,45 +28,13 @@ My passion lies in **data-driven technologies**—I enjoy extracting, processing
 
 ## 💼 Personal Projects  
 
-### 🔹 **Beautiful Soup Scraping**  
-- A Python project for **web scraping** using **BeautifulSoup**.  
-- Extracts and processes **structured data** for further analysis.  
-📍 **GitHub Repo:** [Beautiful Soup Scraping](https://github.com/IgorKazantsev/Beautiful-Soap-Scrapping)  
 
-### 🔹 **CRUD API in .NET**  
-- Developed a **CRUD API** for managing **data operations**.  
-- Built with **C# .NET**, supporting **RESTful interactions**.  
-📍 **GitHub Repo:** [CRUD API .NET](https://github.com/IgorKazantsev/CRUD-API)  
+### 🔹 **FRED ETL Pipelines**
+- A data engineering project for building ETL pipelines with public macroeconomic data.
+- Fetches datasets from the FRED API, applies transformations, and loads into PostgreSQL.
+- Implements deduplication, logging, and environment-based credential management.
+📍 GitHub Repo: [FRED ETL Pipelines](https://github.com/IgorKazantsev/Fred-etl-pipelines)
 
-### 🔹 **TravelBroker.ee – Travel Agency Website**  
-- Built a **responsive website** for a travel agency with **Elementor**.  
-- Integrated **contact forms** and **SEO-optimized** pages.  
-- Improved **website performance** and **user experience**.  
-📍 **Live Site:** [www.travelbroker.ee](https://www.travelbroker.ee)  
-
-### 🔹 **Blu-ray.ee – Online Movie Store**  
-- Created an **e-commerce platform** for **Blu-ray movie sales**.  
-- Integrated **WooCommerce** and optimized the **checkout process**.  
-- Implemented **SEO strategies** to boost **organic traffic**.  
-📍 **Live Site:** [www.blu-ray.ee](https://blu-ray.ee)  
-
-### 🔹 **Motormind.ee – Automotive Blog & Marketplace**  
-- Developed a **blog and online marketplace** for **automotive content**.  
-- Integrated **custom categories** and improved **search functionality**.  
-- Optimized for **SEO** and **mobile responsiveness**.  
-📍 **Live Site:** [www.motormind.ee](https://motormind.ee)  
-
-### 🔹 **La Biosthetique Estonia – Premium Beauty Store**  
-- Created a **multi-category e-commerce store** on **WooCommerce**.  
-- Improved **user experience (UX)** and **checkout flow**.  
-- Analyzed **traffic data** using **Google Analytics** to optimize **conversion rates**.  
-📍 **Live Site:** [www.labiosthetique.ee](https://www.labiosthetique.ee)  
-
-### 🔹 **Loodupood.ee – Organic Products Store**  
-- Developed and maintained an **organic product marketplace**.  
-- Automated **order processing and stock updates**.  
-- Applied **SEO strategies**, increasing **organic traffic** by **30%**.  
-📍 **Live Site:** [www.loodupood.ee](https://www.loodupood.ee)  
 
 ---
 
