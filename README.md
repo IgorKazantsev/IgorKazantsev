@@ -1,4 +1,4 @@
-readme_updated = """# Hi there, I'm Igor Kazantsev 👋  
+# Hi there, I'm Igor Kazantsev 👋  
 
 ## 🎯 Professional Summary  
 
