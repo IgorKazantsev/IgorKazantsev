@@ -79,10 +79,3 @@ I am constantly seeking **new challenges and learning opportunities** that will 
 ---
 
 ⚠️ *Disclaimer: All showcased projects are based on **public data sources** and are created for **educational and portfolio purposes** only. They are not affiliated with any company.*  
-"""
-
-out_path = "/mnt/data/README_PROFILE.md"
-with open(out_path, "w", encoding="utf-8") as f:
-    f.write(readme_updated)
-
-out_path
